@@ -105,7 +105,7 @@ def dataExtraction(data, columnName):
     at the end we return list.
 
     Parameter: (data) type is DataFrame.
-    Parameter: (dacolumnNameta) type is string.
+    Parameter: (columnName) type is string.
 
     Returns: (emptyList)type is list.
     """
